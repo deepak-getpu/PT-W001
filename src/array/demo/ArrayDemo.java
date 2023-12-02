@@ -14,7 +14,8 @@ public class ArrayDemo {
 					
 			
 					System.out.println(Arrays.toString(names));
-		}
+					
+		} // End of main method
 
-	}
+	} // End of main class
 
